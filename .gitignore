@@ -1,0 +1,15 @@
+# Ignore JSON files
+*.json
+# Ignore virtual environment
+venv/
+# Ignore cache files
+__pycache__/
+*.pyc
+*.pyo
+# Ignore cache files
+__pycache__/
+*.pyc
+*.pyo
+# Ignore logs and output files
+*.log
+*.out
